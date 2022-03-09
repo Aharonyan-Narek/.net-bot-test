@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetTelegramBotExample", "AspNetTelegramBotExample\AspNetTelegramBotExample.csproj", "{B941AB8D-6C2F-470D-9D31-12A6DAEBB785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B941AB8D-6C2F-470D-9D31-12A6DAEBB785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B941AB8D-6C2F-470D-9D31-12A6DAEBB785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B941AB8D-6C2F-470D-9D31-12A6DAEBB785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B941AB8D-6C2F-470D-9D31-12A6DAEBB785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

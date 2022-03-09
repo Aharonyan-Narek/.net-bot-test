@@ -1,0 +1,15 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea/.idea.AspNetTelegramBotExample/.idea/vcs.xml
+.idea/.idea.AspNetTelegramBotExample/.idea/misc.xml
+.idea/.idea.AspNetTelegramBotExample/.idea/indexLayout.xml
+.idea/.idea.AspNetTelegramBotExample/.idea/encodings.xml
+AspNetTelegramBotExample/Configuration.cs
+AspNetTelegramBotExample/Configuration.cs
+AspNetTelegramBotExample/config.json
+AspNetTelegramBotExample/config.json
+.idea/.idea.AspNetTelegramBotExample/.idea/projectSettingsUpdater.xml
+.idea/.idea.AspNetTelegramBotExample/.idea/workspace.xml
